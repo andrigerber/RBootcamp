@@ -19,11 +19,11 @@ output: html_document
 
 # **Andri Gerber**
 
-This is my personal website for past and ongoing projects.
+This is my personal website for past and ongoing projects during my MSc Data Science at HSLU.
 
 ## How to use
 
-1. In the Journal folder, the codes for the analyses of projects can be found.
+1. In the folders i list my projects.
 
 
 </div>
