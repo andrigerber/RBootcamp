@@ -1,0 +1,12 @@
+name: Shiny_app
+title: Shiny_app
+username: andri-gerber
+account: andri-gerber
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9929929
+bundleId: 7707312
+url: https://andri-gerber.shinyapps.io/Shiny_app/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
