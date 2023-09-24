@@ -1,0 +1,34 @@
+---
+title: "Andri Gerber"
+output: html_document
+---
+
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+<div class="row" style="padding-top: 30px;">
+<div class="col-sm-6">
+
+# **Andri Gerber**
+
+This is my personal website for past and ongoing projects.
+
+## How to use
+
+1. In the Journal folder, the codes for the analyses of projects can be found.
+
+
+</div>
+<div class="col-sm-6">
+
+### [ORCiD](https://orcid.org/0000-0002-9793-041X)
+
+![](images/logo.png)
